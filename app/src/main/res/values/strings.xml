@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieAppTask</string>
+    <string name="title">Title: &#160;</string>
+    <string name="rating">Rating: &#160;</string>
+    <string name="releaseDate">Release Date: &#160;</string>
+    <string name="overview">Overview: &#160;</string>
+    <string name="no_movies_text">There are currently no movies make sure that you are connected and try again!</string>
+</resources>
